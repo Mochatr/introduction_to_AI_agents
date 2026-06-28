@@ -1,3 +1,3 @@
-# introduction_to_AI_agents
+# introduction Agentic AI
 
-This is an introduction to AI agents.
+This is an introduction Agentic AI.
